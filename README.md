@@ -4,4 +4,4 @@
  Note: This program is made using basic C concepts. Flie Handling is also implemented.
  </p>
 <br>
-<p>Note : Run the above code in " Geany ".<br> IT IS projects are executing well without any errors. </p>
+<p>Note : Run the above code in " Geany ".<br> It is executing well without any errors. </p>
